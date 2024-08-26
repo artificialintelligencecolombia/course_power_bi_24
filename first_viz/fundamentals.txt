@@ -1,0 +1,16 @@
+==============================
+MAIN TITLE OF THE DOCUMENT
+==============================
+
+---------------------
+Report
+---------------------
+
+1. Tipos de clientes por periodicidad de compra.
+2. Clasificacion por año de registro.
+3.Clasificacion de clientes por edad.
+4. Concentracion geografica por ciudad.
+
+-----------------
+End of Document
+-----------------
